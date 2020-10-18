@@ -1,0 +1,17 @@
+h1{
+    font-size: 100px;
+    font-family: 'Montserrat', sans-serif;
+    color: grey;
+}
+.user { color: lightblue; }
+a:link{
+    /*sacar el subrayado*/
+    text-decoration: none;
+}
+p{
+    font-family: 'Epilogue', sans-serif;
+    color: grey;
+}
+.tercer {
+    font-family: 'Montserrat', sans-serif;
+}
